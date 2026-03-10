@@ -100,9 +100,6 @@ Output:
 ---
 
 ## Tabular Prompt Output
-<img width="1064" height="566" alt="image" src="https://github.com/user-attachments/assets/fbf3daac-a3d2-49c9-9bb8-e0c279e6b22f" />
-
-
 Prompt: Compare AC and DC current in a table.
 
 | Feature      | AC Current                              | DC Current                        |
