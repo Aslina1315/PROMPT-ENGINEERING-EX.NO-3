@@ -127,18 +127,16 @@ Prompt: Provide a table listing five programming languages, their paradigms, and
 ---
 
 ## Preceding Question Prompt Output
-i<img width="1200" height="630" alt="image" src="https://github.com/user-attachments/assets/c5f53200-bcf6-4f80-83c8-7d59a06f3fc9" />
-
-
+<img width="1200" height="630" alt="image" src="https://github.com/user-attachments/assets/c5f53200-bcf6-4f80-83c8-7d59a06f3fc9" />
 Prompt: Why is climate change a global concern? Explain how greenhouse gases contribute to global warming.
 
-Output:
+**Output:**
 
 Climate change is a global concern because it affects ecosystems, weather patterns, sea levels, and human life across the world. Greenhouse gases such as carbon dioxide and methane trap heat in the Earth's atmosphere. This trapped heat increases the Earth's temperature, leading to global warming and climate changes.
 
 Prompt: How do vaccines work? Describe the process of immunization in simple terms.
 
-Output:
+**Output:**
 
 Vaccines work by introducing a harmless form of a virus or bacteria into the body. This stimulates the immune system to produce antibodies. When the real infection occurs later, the immune system recognizes the pathogen and quickly destroys it, protecting the body from disease.
 
