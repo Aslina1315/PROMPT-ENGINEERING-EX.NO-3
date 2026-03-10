@@ -7,13 +7,9 @@
 * Missing Word Prompting
 * Preceding Question Prompting
 
----
-
 # NAME : NOORUL ASLINA M 
 
 # REGISTER NUMBER: 212223050033
-
----
 
 # Aim
 
@@ -24,15 +20,11 @@ To write prompts for the following prompt engineering techniques and evaluate th
 3. Preceding Question Prompting
 4. Missing Word Prompting
 
----
-
 # Explanation
 
 Prompt engineering is the process of designing clear and effective prompts to guide an Artificial Intelligence system to generate accurate and meaningful responses. Different prompt styles influence how the AI interprets the request and structures the output.
 
 In this experiment, different prompting techniques are used to observe how the AI generates responses based on the type of prompt provided.
-
----
 
 # Procedure
 
@@ -56,8 +48,6 @@ Example Prompts:
 * "Compare and contrast AC and DC current in a table."
 * "Provide a table listing five programming languages, their paradigms, and one use case each."
 
----
-
 ## 3. Preceding Question Prompting
 
 In this technique, a question is asked before the main question to provide context and guide the AI in generating a more detailed explanation.
@@ -67,7 +57,6 @@ Example Prompts:
 * "Why is climate change a global concern? Explain how greenhouse gases contribute to global warming."
 * "How do vaccines work? Describe the process of immunization in simple terms."
 
----
 
 ## 4. Missing Word Prompting
 
@@ -78,7 +67,6 @@ Example Prompts:
 * "The capital of France is ____."
 * "In photosynthesis, plants absorb sunlight to produce ____."
 
----
 
 # OUTPUT
 
@@ -96,7 +84,6 @@ Output:
 * They have lower operating costs.
 * They reduce dependence on fossil fuels.
 
----
 
 ## Tabular Prompt Output
 Prompt: Compare AC and DC current in a table.
@@ -118,7 +105,6 @@ Prompt: Provide a table listing five programming languages, their paradigms, and
 | JavaScript           | Event-Driven                 | Web Development         |
 | R                    | Functional                   | Statistical Analysis    |
 
----
 
 ## Preceding Question Prompt Output
 <img width="1200" height="630" alt="image" src="https://github.com/user-attachments/assets/c5f53200-bcf6-4f80-83c8-7d59a06f3fc9" />
@@ -134,7 +120,6 @@ Prompt: How do vaccines work? Describe the process of immunization in simple ter
 
 Vaccines work by introducing a harmless form of a virus or bacteria into the body. This stimulates the immune system to produce antibodies. When the real infection occurs later, the immune system recognizes the pathogen and quickly destroys it, protecting the body from disease.
 
----
 
 ## Missing Word Prompt Output
 
@@ -145,8 +130,6 @@ Output: Paris
 Prompt: In photosynthesis, plants absorb sunlight to produce ____.
 
 Output: glucose
-
----
 
 # RESULT
 
