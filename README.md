@@ -107,7 +107,6 @@ Prompt: Provide a table listing five programming languages, their paradigms, and
 
 
 ## Preceding Question Prompt Output
-<img width="1200" height="630" alt="image" src="https://github.com/user-attachments/assets/c5f53200-bcf6-4f80-83c8-7d59a06f3fc9" />
 Prompt: Why is climate change a global concern? Explain how greenhouse gases contribute to global warming.
 
 **Output:**
