@@ -83,8 +83,6 @@ Example Prompts:
 # OUTPUT
 
 ## Straightforward Prompt Output
-<img width="2495" height="1458" alt="image" src="https://github.com/user-attachments/assets/43b68f62-449c-4c76-bebb-a095776f833f" />
-<img width="1024" height="952" alt="image" src="https://github.com/user-attachments/assets/d3620816-68b7-4b98-86bf-f44df24d5a3f" />
 <img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/febccffc-adcb-48b7-9e19-ff8286874dc0" />
 Prompt: Define photosynthesis in one sentence.
 
